@@ -1,4 +1,3 @@
-# quantum-mental-health-scanner
 
 # Quantum Mental Health Scanner (QMHS)  
 *A quantum-enhanced, privacy-preserving system for early detection of suicide-risk in psychiatric care.*
@@ -16,7 +15,6 @@ That afternoon I sat with her in the common room. We didn’t speak about quantu
 
 That promise became **QMHS**—an evolution of my earlier **Quantum Road Scanner (QRS)**. If qubits could amplify the glint of a nail on asphalt, they could amplify the silent cries of a mind on the edge.
 
----
 
 ## 2  Installation  
 ```bash
@@ -24,7 +22,9 @@ git clone https://github.com/youruser/qmhs.git
 cd qmhs
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt       # OpenCV, PennyLane, psutil, cryptography, numpy
-python qmhs.py                        # start monitoring
+python main.py
+```
+           # start monitoring
 
 All computation runs locally; no frames or metrics ever leave the device.
 
