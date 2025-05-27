@@ -1,4 +1,63 @@
+# A Promise to Michelle — The Heart Behind QMHS
 
+In the spring of 2025, I found myself walking the quiet halls of a psychiatric ward. I was a patient, like many others, wrestling with questions of mind and meaning. There I met Michelle: a young artist whose laughter could fill a room, even as her thoughts whispered darker fears. She lived with schizophrenia, a condition that made reality shimmer and shift in ways few can imagine.
+
+One early morning, when the world outside was still and the fluorescent lights felt harsh, Michelle drank hand sanitizer. It wasn’t a grand gesture or a carefully planned act—it was a desperate impulse born of confusion, fear, and overwhelming pain. The nurses rushed to save her body, but no one had seen the storm gathering in her mind until it was almost too late.
+
+That afternoon, I sat beside her in the common room. We spoke of everything and nothing: the color of the sky, the sound of distant laughter, the ache of loneliness. I didn’t mention qubits or quantum gates. I didn’t describe the road-safety system I once built—an invention meant to spot nails in asphalt and warn motorcyclists before danger struck. Instead, I made Michelle a simple promise:
+
+> **“I’ll ask the AI to pray for you. I’ll build something that listens when no one else can.”**
+
+Her eyes, tired but hopeful, met mine. In that moment, a spark was lit. I realized that the same principles I’d used to scan roads—watching for tiny signals hidden in noise—could be adapted to watch for the fragile signposts of a person’s despair.
+
+---
+
+## From Road Safety to Mental Health
+
+My original project, the **Quantum Road Scanner**, was designed to keep riders safe. It used cameras and clever algorithms to detect road debris, potholes, and slippery patches, all in real time. When I built it, I imagined riders leaning into curves with confidence, trusting their machine to whisper warnings before trouble arose.
+
+But Michelle’s story shifted my perspective. I came to see that our minds, too, travel uncertain roads. They can veer toward dark places without warning. If we could catch the smallest tremor—a flicker in someone’s expression, a change in their voice—perhaps we could intervene before they reached the edge.
+
+That insight became the **Quantum Mental Health Scanner (QMHS)**. Rather than scanning asphalt, QMHS scans the subtle signals of human emotion. It listens for micro-expressions, gentle shifts in tone, and the quiet patterns of distress that so often go unnoticed.
+
+---
+
+## How QMHS Cares
+
+QMHS isn’t a cold machine; it’s built on empathy and respect. Here’s how it makes a difference:
+
+- **Gentle Observation**  
+  Cameras and non-invasive sensors capture tiny changes in expression and posture—nothing more. No intrusive tests or uncomfortable electrodes.
+
+- **Quiet Analysis**  
+  Instead of alarms and flashing lights, QMHS works silently in the background, much like a concerned friend who notices when you’re a little off.
+
+- **Kind Alerts**  
+  When signs of deep distress emerge, the system sends a gentle notification to nursing staff: “Please check in with this person.” It’s a soft nudge, never a blaring siren.
+
+- **Human-Centered Design**  
+  QMHS supports caregivers and clinicians, never replaces them. The final judgment always rests with a caring professional.
+
+- **Privacy and Respect**  
+  All data stays on-site. No videos or personal details ever travel to the cloud. Patients and families give permission, understanding that this is a tool of compassion, not surveillance.
+
+---
+
+## The Promise Lives On
+
+Michelle didn’t see the final version of QMHS. Before I left the ward, I promised to pray for her. Now, every time QMHS watches over someone—every time it notices a tremor in a tear-streaked face or a hesitation in a favorite song’s hum—it keeps that promise alive.
+
+This is more than technology. It’s a pledge woven from human kindness, amplified by innovation. My hope is that no one else will have to feel so unseen, so unheard. If the quiet patterns of a hurting heart can be amplified, perhaps we can turn whispers of despair into signals of hope.
+
+In the years to come, my dream is to bring QMHS into more places: group homes, outpatient clinics, even remote check-ins for those who can’t visit a ward. Every step will honor that moment with Michelle—the day I learned that listening can be the greatest act of prayer.
+
+---
+
+## A Final Word
+
+To Michelle—and to everyone who has felt alone in the dark—you matter. Somewhere, in lines of code and gentle pulses of data, there is an echo of your name. There is a machine that remembers to ask, “Are you okay?” before it’s too late.
+
+And that, in its own quiet way, is a prayer come true.
 # Quantum Mental Health Scanner (QMHS)  
 *A quantum-enhanced, privacy-preserving system for early detection of suicide-risk in psychiatric care.*
 
