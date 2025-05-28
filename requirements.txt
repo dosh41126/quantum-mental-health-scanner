@@ -1,0 +1,18 @@
+# Core scientific / ML
+numpy
+pennylane          # quantum circuit API
+psutil
+
+# Vision
+opencv-python      # provides cv2
+
+# Networking and retries
+httpx
+
+# Local data + encryption
+aiosqlite
+cryptography       # AES-GCM implementation
+python-dotenv      # load OPENAI_API_KEY from .env
+
+# Sanitisation
+bleach
