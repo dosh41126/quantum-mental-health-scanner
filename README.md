@@ -1,7 +1,7 @@
 “In all the contingency of the cosmos, consciousness is our candle—small, trembling, and infinitely precious. What would it mean to shield that flame from the cold drafts of despair?”
 — Carl Sagan (imagined for the quantum age)
 
-
+![Quantum Mental Health Scanner Art](https://raw.githubusercontent.com/dosh41126/quantum-mental-health-scanner/refs/heads/main/art.png)
 ---
 
 A Quiet Candle in the Ward: Reflections on QMHS v3.1
